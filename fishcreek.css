@@ -17,7 +17,7 @@ header h1{
 nav{
     font-weight:bold;
 }
-  h3{
+   dt{
     color: #5280c5;
     text-indent: 1.1em;
     font-family: Georgia;
@@ -27,4 +27,12 @@ nav{
     margin-left: auto;
     margin-right: auto;
   }
-
+.category{
+  font-weight: bold;
+  color: #5280c5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+  font-size: .70em;
+  font-style: italic;
+}
