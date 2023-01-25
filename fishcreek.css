@@ -5,19 +5,19 @@ header{
     color: #aec3e3;
     text-align: center;
 }
-  
-body{
-    color: #003366;
-    font-family: Verdana; 
-}
 header h1{
   line-height: 200%;  
   text-indent: 1em;
 }
 nav{
-    font-weight:bold;
+  font-weight:bold;
+
 }
-   dt{
+main{
+    color: #003366;
+    font-family: Verdana; 
+}
+   li{
     color: #5280c5;
     text-indent: 1.1em;
     font-family: Georgia;
